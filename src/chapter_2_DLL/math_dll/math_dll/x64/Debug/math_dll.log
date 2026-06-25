@@ -1,0 +1,5 @@
+﻿  math_dll.cpp
+  math_dll_c.cpp
+  正在生成代码...
+    正在创建库 E:\workspace_git\project\src\chapter_2_DLL\math_dll\x64\Debug\math_dll.lib 和对象 E:\workspace_git\project\src\chapter_2_DLL\math_dll\x64\Debug\math_dll.exp
+  math_dll.vcxproj -> E:\workspace_git\project\src\chapter_2_DLL\math_dll\x64\Debug\math_dll.dll
